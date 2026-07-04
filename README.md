@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there! I'm Srijoy Ghosh<br><br>📊 A passionate Data Analyst who loves turning raw data into meaningful insights.<br><br>💻 I enjoy working with SQL, Python, Excel, and Power BI to solve real-world problems.<br><br>🤝 Open to collaborating on Data Analytics and Open Source projects.<br><br>💬 Let's talk about Data Analysis, Python, SQL, Power BI, or anything related to data!<br><br>📧 Reach me at: **KapilGhosh239@gmail.com**<br><br>⚡ Fun fact: Every dataset has a story—my job is to uncover it.
+## 👋 Hey there! I'm Srijoy Ghosh<br><br>📊 A passionate Data Analyst who loves turning raw data into meaningful insights.<br><br>💻 I enjoy working with SQL, Python, Excel, and Power BI to solve real-world problems.<br><br>🤝 Open to collaborating on Data Analytics and Open Source projects.<br><br>💬 Let's talk about Data Analysis, Python, SQL, Power BI, or anything related to data!<br><br>📧 Reach me at: **kapilGhosh239@gmail.com**<br><br>⚡ Fun fact: Every dataset has a story—my job is to uncover it.
 
 
 ## 🌐 Socials:
